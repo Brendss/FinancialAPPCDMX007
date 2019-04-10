@@ -28,7 +28,9 @@ Durante el testeo de usabilidad detectamos que el proceso de registro era el pun
 Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](https://drive.google.com/open?id=1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK), 
 Se utiliza más la aplicación para controlar sus gastos que para crear metas de ahorro, por lo que el principal objetivo de aplicación no se está cumpliendo.
 
+
 ![User persona](https://drive.google.com/open?id=1KomY1kEQPEu_scMcnE1wD81EV801jw1a)
+
 
 
 
