@@ -36,13 +36,31 @@ Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](h
 
 ![User persona](https://i.ibb.co/s6bwjc2/user-persona.png)
 ![Costumer Journey Map](https://i.ibb.co/3R00yXp/costumer-journey-map.png)
+![Análisis](https://i.ibb.co/5M5djMR/an-lisis-data.png)
+![Prototipo](https://i.ibb.co/pXc9QRC/12.gif)
+
+
+## Recomendaciones
+
+Con base a toda la investigación y a la data analizada sugerimos las siguientes modificaciones:
+
+- Brindar una imagen o marca que respalden y generen confianza al usuario para el uso de nuestra aplicación.
+- Optimizar el registro para aumentar el número de usuarios registrados en la aplicación, manteniendo con feedback constante al usuario acerca de los datos que le son requeridos y en qué parte del proceso están.
+- Incentivar el ahorro mediante promociones o puntos de descuento; también cambiar el nombre del botón para que sea clara la acción que van a realizar los usuarios.
+
+Proponemos el siguiente flujo para generar una experiencia más fácil e intuitiva en el usuario:
+
+![Flujo](https://i.ibb.co/q5bbR0P/flowmap.png)
+
+Para visualizar el prototipo de alta fidelidad pueden revisar el siguiente enlace: 
+[Prototipo de Marvel](https://marvelapp.com/3gb462e/screen/55457831)
+
 
 
 
 
 ### Recursos
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/14R7fjitlKB02pvAjHVBQ0CftuYSXCVGb) y en los siguientes
-links, encontrarán:
+En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/17FHfzGl2v9CfvRxEU6SJwVhnhOOaHfik) se pueden encontrar todos los recursos utilizados en la investigación y en el proceso de diseño.
 
   
