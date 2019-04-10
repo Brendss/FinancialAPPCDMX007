@@ -22,13 +22,16 @@ Para el diagnóstico de la aplicación se utilizaron diferentes herramientas, en
 - Heurísticas de la aplicación, con lo que pudimos concretar los puntos a rediseñar para crear una mejor experiencia de uso. [Heurísticas](https://drive.google.com/open?id=1ALWr1hGz7Di9e-Y1xbUvL5uilpS3WJJw).
 
 Durante la investigación se detectó que el planteamiento de la user persona principal no corresponde a los usuarios de banca móvil, por lo cual fue necesario ajustar el rango de edad del user persona y crear uno nuevo. También fue posible gracias al análisis de la data de App Store Conversion, identificar que el número de descargas de la aplicación no corresponde al número de usuarios registrados y que este último dista mucho del primero.
+
 En el testing con usuarios pudimos validar que es insuficiente contar con la aplicación disponible solo para el sistema iOS, ya que la mayoría de los suarios cuentan con sistema Android.
 Al revisar el landing page del producto detectamos que el porcentaje de Bounce Rate es alto, lo atribuimos a que es poco atractivo el eslogan y también a que la aplicación solo está disponible para el sistema iOS; por lo que los visitantes salen de la página rápidamente al notarlo.
+
 Durante el testeo de usabilidad detectamos que el proceso de registro era el punto más débil del Costumer Journey Map, ya que no recibía feedbak acerca de qué datos le eran requeridos,el proceso de registro de huella no informaba en que parte del proceso estaba y la opción de incluir foto no era claro.
+
 Se utiliza más la aplicación para controlar sus gastos que para crear metas de ahorro, por lo que el principal objetivo de aplicación no se está cumpliendo, lo que relacionamos con la mala ubicación del botón para crear las metas de ahorro, el título confuso y a la poca cultura de ahorro de la población mexicana.
 También se detectó que la inversión en Facebook adds no se está traduciendo en descargas y tampoco en registros de usuarios en la aplicación.
 
-Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](https://drive.google.com/open?id=1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK), 
+Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](https://drive.google.com/open?id=1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK), concluimos que es importante generar una identidad o marca que respalde a la aplicación para generar confianza en los usuarios.
 
 
 ![User persona](https://drive.google.com/open?id=1KomY1kEQPEu_scMcnE1wD81EV801jw1a)
