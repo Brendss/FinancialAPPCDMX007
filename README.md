@@ -34,16 +34,15 @@ También se detectó que la inversión en Facebook adds no se está traduciendo 
 Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](https://drive.google.com/open?id=1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK), concluimos que es importante generar una identidad o marca que respalde a la aplicación para generar confianza en los usuarios.
 
 
-![User persona](https://drive.google.com/open?id=1KomY1kEQPEu_scMcnE1wD81EV801jw1a)
+![User persona](https://i.ibb.co/s6bwjc2/user-persona.png)
+![Costumer Journey Map](https://i.ibb.co/3R00yXp/costumer-journey-map.png)
 
 
 
-
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
 ### Recursos
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
+En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/14R7fjitlKB02pvAjHVBQ0CftuYSXCVGb) y en los siguientes
 links, encontrarán:
 
   
