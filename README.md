@@ -37,7 +37,6 @@ Con base en el [Estudio de consumo de medios y dispositivos, corte financiero](h
 ![User persona](https://i.ibb.co/s6bwjc2/user-persona.png)
 ![Costumer Journey Map](https://i.ibb.co/3R00yXp/costumer-journey-map.png)
 ![Análisis](https://i.ibb.co/5M5djMR/an-lisis-data.png)
-![Prototipo](https://i.ibb.co/pXc9QRC/12.gif)
 
 
 ## Recomendaciones
@@ -54,6 +53,9 @@ Proponemos el siguiente flujo para generar una experiencia más fácil e intuiti
 
 Para visualizar el prototipo de alta fidelidad pueden revisar el siguiente enlace: 
 [Prototipo de Marvel](https://marvelapp.com/3gb462e/screen/55457831)
+
+
+![Prototipo](https://i.ibb.co/pXc9QRC/12.gif)
 
 
 
